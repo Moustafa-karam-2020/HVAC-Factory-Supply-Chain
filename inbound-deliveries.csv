@@ -1,0 +1,307 @@
+Supplier,Product,Planned Delivery Date,Actual Delivery Date,Quantity,Delay Reason
+CoolTech Co.,Fan Motor,2025-04-01,2025-04-01,41,
+ArcticParts Ltd.,Compressor,2025-04-01,2025-04-04,96,Supplier Issue
+FrostLine GmbH,Compressor,2025-04-02,2025-04-02,13,
+ArcticParts Ltd.,Evaporator Coil,2025-04-02,2025-04-04,74,Weather
+FrostLine GmbH,Evaporator Coil,2025-04-03,2025-04-05,67,Customs Delay
+CoolTech Co.,Evaporator Coil,2025-04-03,2025-04-04,99,Customs Delay
+ThermoFlow Inc.,Evaporator Coil,2025-04-03,2025-04-03,37,
+CoolTech Co.,Thermostat,2025-04-04,2025-04-04,22,
+ThermoFlow Inc.,Heat Exchanger,2025-04-04,2025-04-04,43,
+CoolTech Co.,Thermostat,2025-04-05,2025-04-07,20,Customs Delay
+ThermoFlow Inc.,Heat Exchanger,2025-04-05,2025-04-08,34,Weather
+CoolTech Co.,Evaporator Coil,2025-04-05,2025-04-05,47,
+ArcticParts Ltd.,Compressor,2025-04-05,2025-04-05,58,
+FrostLine GmbH,Fan Motor,2025-04-05,2025-04-05,30,
+ArcticParts Ltd.,Fan Motor,2025-04-06,2025-04-09,99,Supplier Issue
+CoolTech Co.,Heat Exchanger,2025-04-06,2025-04-06,91,
+ArcticParts Ltd.,Evaporator Coil,2025-04-06,2025-04-07,69,Customs Delay
+ArcticParts Ltd.,Fan Motor,2025-04-06,2025-04-06,17,
+ThermoFlow Inc.,Thermostat,2025-04-07,2025-04-07,44,
+ArcticParts Ltd.,Heat Exchanger,2025-04-07,2025-04-07,50,
+FrostLine GmbH,Thermostat,2025-04-08,2025-04-08,28,
+ArcticParts Ltd.,Evaporator Coil,2025-04-08,2025-04-10,81,Customs Delay
+FrostLine GmbH,Heat Exchanger,2025-04-08,2025-04-08,61,
+ArcticParts Ltd.,Evaporator Coil,2025-04-08,2025-04-09,75,Weather
+CoolTech Co.,Compressor,2025-04-08,2025-04-11,29,Weather
+CoolTech Co.,Thermostat,2025-04-09,2025-04-11,58,Customs Delay
+ThermoFlow Inc.,Heat Exchanger,2025-04-09,2025-04-12,11,Supplier Issue
+CoolTech Co.,Heat Exchanger,2025-04-09,2025-04-12,44,Customs Delay
+CoolTech Co.,Fan Motor,2025-04-09,2025-04-09,65,
+FrostLine GmbH,Compressor,2025-04-09,2025-04-11,43,Weather
+ThermoFlow Inc.,Heat Exchanger,2025-04-10,2025-04-10,87,
+ArcticParts Ltd.,Fan Motor,2025-04-10,2025-04-12,30,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-04-11,2025-04-11,12,
+ThermoFlow Inc.,Fan Motor,2025-04-11,2025-04-11,40,
+CoolTech Co.,Compressor,2025-04-12,2025-04-12,72,
+ArcticParts Ltd.,Evaporator Coil,2025-04-12,2025-04-13,94,Supplier Issue
+ArcticParts Ltd.,Fan Motor,2025-04-12,2025-04-14,77,Customs Delay
+ArcticParts Ltd.,Fan Motor,2025-04-13,2025-04-16,61,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-04-13,2025-04-14,76,Weather
+ArcticParts Ltd.,Evaporator Coil,2025-04-13,2025-04-13,18,
+ArcticParts Ltd.,Heat Exchanger,2025-04-14,2025-04-14,38,
+CoolTech Co.,Compressor,2025-04-14,2025-04-14,39,
+ThermoFlow Inc.,Compressor,2025-04-15,2025-04-15,75,
+ThermoFlow Inc.,Thermostat,2025-04-15,2025-04-17,37,Weather
+ArcticParts Ltd.,Thermostat,2025-04-16,2025-04-16,62,
+CoolTech Co.,Compressor,2025-04-16,2025-04-17,94,Customs Delay
+FrostLine GmbH,Thermostat,2025-04-16,2025-04-19,69,Weather
+CoolTech Co.,Compressor,2025-04-16,2025-04-19,61,Customs Delay
+CoolTech Co.,Evaporator Coil,2025-04-16,2025-04-16,34,
+ArcticParts Ltd.,Thermostat,2025-04-17,2025-04-17,33,
+FrostLine GmbH,Evaporator Coil,2025-04-17,2025-04-18,19,Supplier Issue
+CoolTech Co.,Compressor,2025-04-17,2025-04-19,93,Weather
+CoolTech Co.,Evaporator Coil,2025-04-17,2025-04-18,31,Customs Delay
+FrostLine GmbH,Evaporator Coil,2025-04-17,2025-04-17,61,
+FrostLine GmbH,Compressor,2025-04-18,2025-04-18,59,
+FrostLine GmbH,Fan Motor,2025-04-18,2025-04-21,64,Supplier Issue
+FrostLine GmbH,Evaporator Coil,2025-04-18,2025-04-18,34,
+CoolTech Co.,Heat Exchanger,2025-04-19,2025-04-19,79,
+ThermoFlow Inc.,Compressor,2025-04-19,2025-04-21,16,Customs Delay
+ArcticParts Ltd.,Compressor,2025-04-19,2025-04-19,75,
+CoolTech Co.,Heat Exchanger,2025-04-20,2025-04-23,18,Weather
+FrostLine GmbH,Compressor,2025-04-20,2025-04-20,82,
+CoolTech Co.,Heat Exchanger,2025-04-20,2025-04-21,20,Supplier Issue
+ThermoFlow Inc.,Evaporator Coil,2025-04-21,2025-04-24,95,Customs Delay
+ArcticParts Ltd.,Fan Motor,2025-04-21,2025-04-21,60,
+ThermoFlow Inc.,Thermostat,2025-04-21,2025-04-21,50,
+CoolTech Co.,Thermostat,2025-04-21,2025-04-23,89,Weather
+ArcticParts Ltd.,Heat Exchanger,2025-04-22,2025-04-22,43,
+ThermoFlow Inc.,Compressor,2025-04-22,2025-04-22,41,
+ArcticParts Ltd.,Thermostat,2025-04-23,2025-04-26,79,Customs Delay
+CoolTech Co.,Heat Exchanger,2025-04-23,2025-04-26,48,Weather
+ArcticParts Ltd.,Fan Motor,2025-04-23,2025-04-23,24,
+ArcticParts Ltd.,Fan Motor,2025-04-23,2025-04-25,46,Weather
+ArcticParts Ltd.,Fan Motor,2025-04-24,2025-04-25,74,Customs Delay
+CoolTech Co.,Compressor,2025-04-24,2025-04-25,91,Customs Delay
+CoolTech Co.,Compressor,2025-04-24,2025-04-24,52,
+ThermoFlow Inc.,Evaporator Coil,2025-04-24,2025-04-26,66,Supplier Issue
+CoolTech Co.,Compressor,2025-04-25,2025-04-28,19,Weather
+CoolTech Co.,Fan Motor,2025-04-25,2025-04-27,84,Weather
+FrostLine GmbH,Evaporator Coil,2025-04-25,2025-04-25,15,
+ThermoFlow Inc.,Compressor,2025-04-25,2025-04-25,55,
+ArcticParts Ltd.,Compressor,2025-04-25,2025-04-27,55,Customs Delay
+ArcticParts Ltd.,Evaporator Coil,2025-04-26,2025-04-27,32,Weather
+ArcticParts Ltd.,Fan Motor,2025-04-26,2025-04-29,62,Supplier Issue
+ArcticParts Ltd.,Fan Motor,2025-04-26,2025-04-29,30,Weather
+CoolTech Co.,Thermostat,2025-04-27,2025-04-27,38,
+FrostLine GmbH,Fan Motor,2025-04-27,2025-04-27,49,
+ArcticParts Ltd.,Compressor,2025-04-27,2025-04-27,94,
+FrostLine GmbH,Fan Motor,2025-04-27,2025-04-27,45,
+ThermoFlow Inc.,Fan Motor,2025-04-27,2025-04-29,92,Customs Delay
+CoolTech Co.,Compressor,2025-04-28,2025-04-28,43,
+ThermoFlow Inc.,Compressor,2025-04-28,2025-04-30,23,Customs Delay
+ThermoFlow Inc.,Fan Motor,2025-04-28,2025-04-30,65,Supplier Issue
+CoolTech Co.,Thermostat,2025-04-28,2025-04-28,83,
+CoolTech Co.,Thermostat,2025-04-29,2025-05-01,10,Supplier Issue
+ArcticParts Ltd.,Fan Motor,2025-04-29,2025-04-29,65,
+ThermoFlow Inc.,Heat Exchanger,2025-04-29,2025-05-02,50,Weather
+ThermoFlow Inc.,Heat Exchanger,2025-04-29,2025-05-02,49,Customs Delay
+FrostLine GmbH,Fan Motor,2025-04-30,2025-04-30,80,
+ArcticParts Ltd.,Thermostat,2025-04-30,2025-05-01,95,Supplier Issue
+ArcticParts Ltd.,Heat Exchanger,2025-04-30,2025-04-30,82,
+FrostLine GmbH,Heat Exchanger,2025-04-30,2025-04-30,10,
+ArcticParts Ltd.,Thermostat,2025-05-01,2025-05-03,84,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-05-01,2025-05-02,66,Supplier Issue
+ArcticParts Ltd.,Heat Exchanger,2025-05-01,2025-05-04,70,Weather
+CoolTech Co.,Fan Motor,2025-05-01,2025-05-04,75,Supplier Issue
+CoolTech Co.,Evaporator Coil,2025-05-02,2025-05-02,96,
+ArcticParts Ltd.,Evaporator Coil,2025-05-02,2025-05-02,28,
+CoolTech Co.,Evaporator Coil,2025-05-02,2025-05-04,70,Weather
+FrostLine GmbH,Thermostat,2025-05-02,2025-05-04,90,Weather
+FrostLine GmbH,Thermostat,2025-05-03,2025-05-03,41,
+CoolTech Co.,Compressor,2025-05-03,2025-05-03,64,
+ArcticParts Ltd.,Heat Exchanger,2025-05-03,2025-05-03,69,
+ArcticParts Ltd.,Compressor,2025-05-03,2025-05-03,68,
+FrostLine GmbH,Heat Exchanger,2025-05-03,2025-05-05,81,Customs Delay
+FrostLine GmbH,Heat Exchanger,2025-05-04,2025-05-04,67,
+FrostLine GmbH,Thermostat,2025-05-04,2025-05-04,43,
+ThermoFlow Inc.,Heat Exchanger,2025-05-04,2025-05-07,72,Weather
+ThermoFlow Inc.,Thermostat,2025-05-04,2025-05-07,19,Customs Delay
+ArcticParts Ltd.,Fan Motor,2025-05-04,2025-05-04,52,
+ArcticParts Ltd.,Evaporator Coil,2025-05-05,2025-05-06,39,Supplier Issue
+ArcticParts Ltd.,Evaporator Coil,2025-05-05,2025-05-06,18,Customs Delay
+FrostLine GmbH,Thermostat,2025-05-06,2025-05-06,17,
+FrostLine GmbH,Thermostat,2025-05-06,2025-05-09,84,Weather
+FrostLine GmbH,Thermostat,2025-05-06,2025-05-06,10,
+ThermoFlow Inc.,Thermostat,2025-05-06,2025-05-08,63,Supplier Issue
+FrostLine GmbH,Evaporator Coil,2025-05-07,2025-05-08,44,Customs Delay
+CoolTech Co.,Thermostat,2025-05-07,2025-05-10,53,Supplier Issue
+FrostLine GmbH,Evaporator Coil,2025-05-07,2025-05-07,69,
+FrostLine GmbH,Heat Exchanger,2025-05-08,2025-05-11,82,Weather
+CoolTech Co.,Thermostat,2025-05-08,2025-05-09,27,Weather
+ThermoFlow Inc.,Thermostat,2025-05-09,2025-05-09,51,
+FrostLine GmbH,Fan Motor,2025-05-09,2025-05-10,53,Customs Delay
+ThermoFlow Inc.,Compressor,2025-05-10,2025-05-10,70,
+CoolTech Co.,Fan Motor,2025-05-10,2025-05-13,38,Weather
+CoolTech Co.,Compressor,2025-05-10,2025-05-10,41,
+CoolTech Co.,Heat Exchanger,2025-05-10,2025-05-10,29,
+ArcticParts Ltd.,Thermostat,2025-05-10,2025-05-10,95,
+FrostLine GmbH,Fan Motor,2025-05-11,2025-05-11,57,
+CoolTech Co.,Evaporator Coil,2025-05-11,2025-05-11,49,
+CoolTech Co.,Fan Motor,2025-05-11,2025-05-14,83,Customs Delay
+ArcticParts Ltd.,Compressor,2025-05-12,2025-05-15,85,Supplier Issue
+ArcticParts Ltd.,Compressor,2025-05-12,2025-05-12,99,
+CoolTech Co.,Heat Exchanger,2025-05-12,2025-05-12,15,
+FrostLine GmbH,Fan Motor,2025-05-12,2025-05-14,18,Supplier Issue
+ThermoFlow Inc.,Compressor,2025-05-12,2025-05-13,63,Weather
+ThermoFlow Inc.,Thermostat,2025-05-13,2025-05-13,100,
+FrostLine GmbH,Evaporator Coil,2025-05-13,2025-05-16,76,Customs Delay
+FrostLine GmbH,Thermostat,2025-05-13,2025-05-16,65,Supplier Issue
+ThermoFlow Inc.,Fan Motor,2025-05-13,2025-05-13,41,
+ThermoFlow Inc.,Thermostat,2025-05-13,2025-05-14,41,Supplier Issue
+ThermoFlow Inc.,Compressor,2025-05-14,2025-05-14,73,
+ArcticParts Ltd.,Thermostat,2025-05-14,2025-05-14,37,
+ThermoFlow Inc.,Fan Motor,2025-05-14,2025-05-16,45,Supplier Issue
+ThermoFlow Inc.,Heat Exchanger,2025-05-14,2025-05-16,11,Weather
+CoolTech Co.,Evaporator Coil,2025-05-14,2025-05-15,62,Supplier Issue
+FrostLine GmbH,Thermostat,2025-05-15,2025-05-15,67,
+CoolTech Co.,Fan Motor,2025-05-15,2025-05-16,38,Supplier Issue
+ArcticParts Ltd.,Fan Motor,2025-05-15,2025-05-17,94,Customs Delay
+ThermoFlow Inc.,Thermostat,2025-05-16,2025-05-16,80,
+ThermoFlow Inc.,Thermostat,2025-05-16,2025-05-16,44,
+ThermoFlow Inc.,Evaporator Coil,2025-05-16,2025-05-19,25,Weather
+ThermoFlow Inc.,Compressor,2025-05-16,2025-05-19,78,Weather
+ArcticParts Ltd.,Evaporator Coil,2025-05-16,2025-05-16,71,
+CoolTech Co.,Evaporator Coil,2025-05-17,2025-05-17,47,
+ThermoFlow Inc.,Evaporator Coil,2025-05-17,2025-05-17,48,
+ArcticParts Ltd.,Fan Motor,2025-05-17,2025-05-17,15,
+ThermoFlow Inc.,Evaporator Coil,2025-05-17,2025-05-18,91,Weather
+ThermoFlow Inc.,Thermostat,2025-05-18,2025-05-19,71,Customs Delay
+ArcticParts Ltd.,Compressor,2025-05-18,2025-05-19,42,Weather
+FrostLine GmbH,Thermostat,2025-05-19,2025-05-21,19,Supplier Issue
+CoolTech Co.,Evaporator Coil,2025-05-19,2025-05-21,29,Customs Delay
+ArcticParts Ltd.,Compressor,2025-05-20,2025-05-21,81,Supplier Issue
+ArcticParts Ltd.,Heat Exchanger,2025-05-20,2025-05-21,58,Customs Delay
+FrostLine GmbH,Fan Motor,2025-05-21,2025-05-23,82,Weather
+CoolTech Co.,Evaporator Coil,2025-05-21,2025-05-21,90,
+ThermoFlow Inc.,Compressor,2025-05-21,2025-05-21,30,
+ArcticParts Ltd.,Heat Exchanger,2025-05-21,2025-05-21,19,
+FrostLine GmbH,Thermostat,2025-05-22,2025-05-24,98,Customs Delay
+ThermoFlow Inc.,Compressor,2025-05-22,2025-05-22,39,
+FrostLine GmbH,Compressor,2025-05-23,2025-05-23,97,
+ThermoFlow Inc.,Heat Exchanger,2025-05-23,2025-05-23,94,
+FrostLine GmbH,Compressor,2025-05-23,2025-05-23,79,
+ArcticParts Ltd.,Fan Motor,2025-05-23,2025-05-23,28,
+ArcticParts Ltd.,Fan Motor,2025-05-24,2025-05-27,86,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-05-24,2025-05-25,25,Supplier Issue
+FrostLine GmbH,Fan Motor,2025-05-25,2025-05-27,74,Customs Delay
+FrostLine GmbH,Compressor,2025-05-25,2025-05-25,86,
+FrostLine GmbH,Fan Motor,2025-05-25,2025-05-25,87,
+CoolTech Co.,Compressor,2025-05-25,2025-05-28,39,Supplier Issue
+ThermoFlow Inc.,Heat Exchanger,2025-05-26,2025-05-26,15,
+FrostLine GmbH,Heat Exchanger,2025-05-26,2025-05-27,93,Customs Delay
+FrostLine GmbH,Thermostat,2025-05-27,2025-05-28,21,Customs Delay
+FrostLine GmbH,Fan Motor,2025-05-27,2025-05-30,51,Weather
+ArcticParts Ltd.,Fan Motor,2025-05-27,2025-05-30,62,Customs Delay
+FrostLine GmbH,Heat Exchanger,2025-05-28,2025-05-29,14,Weather
+ThermoFlow Inc.,Fan Motor,2025-05-28,2025-05-28,51,
+FrostLine GmbH,Heat Exchanger,2025-05-28,2025-05-31,10,Supplier Issue
+FrostLine GmbH,Thermostat,2025-05-28,2025-05-28,16,
+FrostLine GmbH,Thermostat,2025-05-29,2025-05-29,16,
+ThermoFlow Inc.,Heat Exchanger,2025-05-29,2025-05-29,26,
+FrostLine GmbH,Thermostat,2025-05-29,2025-05-29,25,
+ArcticParts Ltd.,Evaporator Coil,2025-05-29,2025-05-31,49,Weather
+CoolTech Co.,Evaporator Coil,2025-05-30,2025-05-31,24,Weather
+ArcticParts Ltd.,Thermostat,2025-05-30,2025-06-01,47,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-05-30,2025-05-31,71,Weather
+FrostLine GmbH,Heat Exchanger,2025-05-30,2025-05-31,28,Weather
+ArcticParts Ltd.,Compressor,2025-05-30,2025-05-31,45,Customs Delay
+CoolTech Co.,Fan Motor,2025-05-31,2025-06-02,48,Supplier Issue
+FrostLine GmbH,Evaporator Coil,2025-05-31,2025-06-02,67,Customs Delay
+ThermoFlow Inc.,Fan Motor,2025-05-31,2025-06-02,80,Customs Delay
+FrostLine GmbH,Fan Motor,2025-05-31,2025-06-03,34,Weather
+ArcticParts Ltd.,Thermostat,2025-06-01,2025-06-01,15,
+FrostLine GmbH,Thermostat,2025-06-01,2025-06-04,59,Supplier Issue
+ArcticParts Ltd.,Thermostat,2025-06-01,2025-06-01,14,
+ThermoFlow Inc.,Compressor,2025-06-01,2025-06-01,66,
+FrostLine GmbH,Compressor,2025-06-01,2025-06-02,28,Supplier Issue
+CoolTech Co.,Thermostat,2025-06-02,2025-06-02,43,
+FrostLine GmbH,Compressor,2025-06-02,2025-06-05,52,Supplier Issue
+FrostLine GmbH,Fan Motor,2025-06-02,2025-06-05,90,Customs Delay
+CoolTech Co.,Evaporator Coil,2025-06-03,2025-06-06,90,Customs Delay
+ArcticParts Ltd.,Compressor,2025-06-03,2025-06-03,65,
+FrostLine GmbH,Evaporator Coil,2025-06-04,2025-06-04,98,
+CoolTech Co.,Compressor,2025-06-04,2025-06-04,51,
+ThermoFlow Inc.,Fan Motor,2025-06-05,2025-06-05,65,
+ArcticParts Ltd.,Heat Exchanger,2025-06-05,2025-06-07,62,Supplier Issue
+ArcticParts Ltd.,Evaporator Coil,2025-06-05,2025-06-05,32,
+FrostLine GmbH,Heat Exchanger,2025-06-05,2025-06-05,97,
+ArcticParts Ltd.,Evaporator Coil,2025-06-06,2025-06-09,69,Customs Delay
+FrostLine GmbH,Fan Motor,2025-06-06,2025-06-06,95,
+FrostLine GmbH,Fan Motor,2025-06-06,2025-06-08,96,Weather
+CoolTech Co.,Thermostat,2025-06-06,2025-06-08,54,Customs Delay
+FrostLine GmbH,Fan Motor,2025-06-06,2025-06-06,68,
+FrostLine GmbH,Thermostat,2025-06-07,2025-06-07,23,
+FrostLine GmbH,Heat Exchanger,2025-06-07,2025-06-09,55,Customs Delay
+ThermoFlow Inc.,Compressor,2025-06-07,2025-06-08,94,Customs Delay
+CoolTech Co.,Heat Exchanger,2025-06-08,2025-06-08,73,
+ArcticParts Ltd.,Heat Exchanger,2025-06-08,2025-06-08,55,
+ThermoFlow Inc.,Evaporator Coil,2025-06-09,2025-06-09,90,
+CoolTech Co.,Fan Motor,2025-06-09,2025-06-09,66,
+ThermoFlow Inc.,Evaporator Coil,2025-06-09,2025-06-09,21,
+FrostLine GmbH,Evaporator Coil,2025-06-10,2025-06-10,35,
+ThermoFlow Inc.,Heat Exchanger,2025-06-10,2025-06-10,74,
+ArcticParts Ltd.,Fan Motor,2025-06-10,2025-06-10,71,
+ThermoFlow Inc.,Compressor,2025-06-10,2025-06-10,69,
+ArcticParts Ltd.,Thermostat,2025-06-11,2025-06-11,81,
+CoolTech Co.,Thermostat,2025-06-11,2025-06-11,11,
+CoolTech Co.,Thermostat,2025-06-11,2025-06-14,57,Supplier Issue
+FrostLine GmbH,Fan Motor,2025-06-12,2025-06-15,23,Weather
+FrostLine GmbH,Compressor,2025-06-12,2025-06-14,89,Customs Delay
+ArcticParts Ltd.,Compressor,2025-06-12,2025-06-13,91,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-06-12,2025-06-12,24,
+CoolTech Co.,Fan Motor,2025-06-13,2025-06-13,73,
+CoolTech Co.,Evaporator Coil,2025-06-13,2025-06-13,78,
+FrostLine GmbH,Fan Motor,2025-06-14,2025-06-17,95,Supplier Issue
+FrostLine GmbH,Heat Exchanger,2025-06-14,2025-06-15,29,Supplier Issue
+CoolTech Co.,Thermostat,2025-06-14,2025-06-15,88,Customs Delay
+CoolTech Co.,Fan Motor,2025-06-14,2025-06-15,37,Customs Delay
+ArcticParts Ltd.,Fan Motor,2025-06-14,2025-06-17,22,Customs Delay
+CoolTech Co.,Thermostat,2025-06-15,2025-06-15,45,
+CoolTech Co.,Thermostat,2025-06-15,2025-06-18,21,Weather
+CoolTech Co.,Compressor,2025-06-15,2025-06-15,52,
+ArcticParts Ltd.,Heat Exchanger,2025-06-15,2025-06-15,36,
+ArcticParts Ltd.,Evaporator Coil,2025-06-16,2025-06-16,52,
+CoolTech Co.,Fan Motor,2025-06-16,2025-06-16,28,
+ThermoFlow Inc.,Evaporator Coil,2025-06-16,2025-06-19,24,Weather
+CoolTech Co.,Fan Motor,2025-06-17,2025-06-19,40,Customs Delay
+CoolTech Co.,Evaporator Coil,2025-06-17,2025-06-17,43,
+ArcticParts Ltd.,Thermostat,2025-06-17,2025-06-17,77,
+FrostLine GmbH,Thermostat,2025-06-18,2025-06-20,56,Supplier Issue
+CoolTech Co.,Thermostat,2025-06-18,2025-06-18,74,
+ThermoFlow Inc.,Thermostat,2025-06-19,2025-06-19,92,
+CoolTech Co.,Thermostat,2025-06-19,2025-06-20,61,Supplier Issue
+FrostLine GmbH,Thermostat,2025-06-20,2025-06-20,19,
+ThermoFlow Inc.,Heat Exchanger,2025-06-20,2025-06-20,28,
+ThermoFlow Inc.,Heat Exchanger,2025-06-21,2025-06-23,91,Supplier Issue
+ThermoFlow Inc.,Thermostat,2025-06-21,2025-06-23,86,Customs Delay
+FrostLine GmbH,Heat Exchanger,2025-06-21,2025-06-22,87,Weather
+ArcticParts Ltd.,Thermostat,2025-06-22,2025-06-22,67,
+FrostLine GmbH,Fan Motor,2025-06-22,2025-06-23,68,Customs Delay
+ThermoFlow Inc.,Thermostat,2025-06-23,2025-06-26,50,Customs Delay
+ThermoFlow Inc.,Evaporator Coil,2025-06-23,2025-06-24,97,Weather
+CoolTech Co.,Compressor,2025-06-24,2025-06-24,65,
+ThermoFlow Inc.,Evaporator Coil,2025-06-24,2025-06-24,81,
+CoolTech Co.,Thermostat,2025-06-25,2025-06-28,55,Customs Delay
+CoolTech Co.,Fan Motor,2025-06-25,2025-06-25,86,
+ThermoFlow Inc.,Compressor,2025-06-25,2025-06-27,83,Weather
+ArcticParts Ltd.,Thermostat,2025-06-25,2025-06-25,38,
+ThermoFlow Inc.,Compressor,2025-06-26,2025-06-28,45,Weather
+FrostLine GmbH,Heat Exchanger,2025-06-26,2025-06-28,89,Supplier Issue
+CoolTech Co.,Heat Exchanger,2025-06-26,2025-06-29,94,Customs Delay
+CoolTech Co.,Evaporator Coil,2025-06-26,2025-06-29,44,Customs Delay
+ThermoFlow Inc.,Compressor,2025-06-27,2025-06-27,33,
+FrostLine GmbH,Compressor,2025-06-27,2025-06-30,28,Supplier Issue
+CoolTech Co.,Compressor,2025-06-27,2025-06-27,77,
+FrostLine GmbH,Thermostat,2025-06-27,2025-06-27,68,
+ThermoFlow Inc.,Fan Motor,2025-06-28,2025-06-30,51,Supplier Issue
+CoolTech Co.,Compressor,2025-06-28,2025-06-28,29,
+CoolTech Co.,Compressor,2025-06-28,2025-06-29,44,Supplier Issue
+FrostLine GmbH,Heat Exchanger,2025-06-29,2025-06-30,66,Customs Delay
+ArcticParts Ltd.,Heat Exchanger,2025-06-29,2025-06-29,24,
+FrostLine GmbH,Compressor,2025-06-29,2025-07-02,46,Supplier Issue
+FrostLine GmbH,Heat Exchanger,2025-06-29,2025-06-29,95,
+CoolTech Co.,Evaporator Coil,2025-06-29,2025-07-01,60,Weather
+ArcticParts Ltd.,Fan Motor,2025-06-30,2025-06-30,37,
+ThermoFlow Inc.,Fan Motor,2025-06-30,2025-06-30,51,

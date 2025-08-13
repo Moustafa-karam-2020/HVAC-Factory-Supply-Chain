@@ -1,0 +1,92 @@
+Date,Units Produced,Scrap Units,Downtime Minutes,Downtime Reason
+2025-04-01,203,7,180,Material Shortage
+2025-04-02,289,2,60,Power Outage
+2025-04-03,317,11,0,
+2025-04-04,403,1,60,Equipment Failure
+2025-04-05,435,2,30,Power Outage
+2025-04-06,419,18,60,Power Outage
+2025-04-07,413,9,0,
+2025-04-08,407,0,30,Equipment Failure
+2025-04-09,435,11,0,
+2025-04-10,423,3,0,
+2025-04-11,423,18,60,Power Outage
+2025-04-12,240,6,30,Power Outage
+2025-04-13,373,7,30,Equipment Failure
+2025-04-14,239,8,180,Equipment Failure
+2025-04-15,471,16,0,
+2025-04-16,378,11,180,Power Outage
+2025-04-17,275,3,0,
+2025-04-18,274,4,0,
+2025-04-19,288,9,0,
+2025-04-20,238,2,180,Material Shortage
+2025-04-21,437,18,120,Material Shortage
+2025-04-22,489,20,180,Power Outage
+2025-04-23,365,10,0,
+2025-04-24,425,2,60,Material Shortage
+2025-04-25,355,8,120,Equipment Failure
+2025-04-26,380,16,0,
+2025-04-27,358,14,60,Equipment Failure
+2025-04-28,229,5,30,Equipment Failure
+2025-04-29,246,9,120,Power Outage
+2025-04-30,396,14,120,Power Outage
+2025-05-01,221,7,120,Power Outage
+2025-05-02,296,5,120,Material Shortage
+2025-05-03,456,4,0,
+2025-05-04,430,3,30,Power Outage
+2025-05-05,243,8,180,Equipment Failure
+2025-05-06,220,3,180,Material Shortage
+2025-05-07,424,16,120,Power Outage
+2025-05-08,281,5,30,Material Shortage
+2025-05-09,398,13,30,Power Outage
+2025-05-10,226,10,180,Material Shortage
+2025-05-11,233,5,0,
+2025-05-12,485,21,60,Material Shortage
+2025-05-13,329,4,30,Equipment Failure
+2025-05-14,498,21,0,
+2025-05-15,379,9,180,Power Outage
+2025-05-16,400,4,120,Power Outage
+2025-05-17,243,4,120,Material Shortage
+2025-05-18,368,4,180,Power Outage
+2025-05-19,469,2,180,Power Outage
+2025-05-20,416,16,30,Equipment Failure
+2025-05-21,385,9,0,
+2025-05-22,309,10,60,Equipment Failure
+2025-05-23,315,4,0,
+2025-05-24,239,4,0,
+2025-05-25,459,17,180,Power Outage
+2025-05-26,219,10,30,Power Outage
+2025-05-27,267,9,60,Equipment Failure
+2025-05-28,283,2,180,Power Outage
+2025-05-29,284,11,60,Equipment Failure
+2025-05-30,410,11,180,Power Outage
+2025-05-31,321,14,120,Material Shortage
+2025-06-01,429,7,120,Equipment Failure
+2025-06-02,358,15,0,
+2025-06-03,388,18,60,Material Shortage
+2025-06-04,344,12,120,Power Outage
+2025-06-05,414,5,0,
+2025-06-06,270,13,30,Equipment Failure
+2025-06-07,446,11,120,Equipment Failure
+2025-06-08,464,3,30,Equipment Failure
+2025-06-09,282,4,60,Power Outage
+2025-06-10,275,13,60,Equipment Failure
+2025-06-11,313,14,30,Equipment Failure
+2025-06-12,412,1,60,Power Outage
+2025-06-13,391,7,60,Equipment Failure
+2025-06-14,391,7,0,
+2025-06-15,363,3,180,Power Outage
+2025-06-16,371,4,0,
+2025-06-17,219,4,60,Power Outage
+2025-06-18,271,12,180,Material Shortage
+2025-06-19,429,19,0,
+2025-06-20,240,0,30,Equipment Failure
+2025-06-21,276,8,180,Power Outage
+2025-06-22,470,13,0,
+2025-06-23,347,7,30,Equipment Failure
+2025-06-24,224,3,60,Power Outage
+2025-06-25,434,2,0,
+2025-06-26,455,19,120,Equipment Failure
+2025-06-27,463,18,0,
+2025-06-28,273,4,60,Equipment Failure
+2025-06-29,380,7,120,Material Shortage
+2025-06-30,295,10,180,Equipment Failure

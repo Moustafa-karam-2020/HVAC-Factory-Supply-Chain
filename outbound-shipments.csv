@@ -1,0 +1,251 @@
+Customer,Product,Planned Ship Date,Actual Ship Date,Quantity,Late Reason
+Nordic HVAC,Heat Exchanger,2025-04-01,2025-04-01,39,
+ArcticAir,Thermostat,2025-04-01,2025-04-03,7,Transport Issue
+KlimaPro,Compressor,2025-04-01,2025-04-01,27,
+EuroChill,Compressor,2025-04-02,2025-04-03,42,Production Delay
+Nordic HVAC,Fan Motor,2025-04-02,2025-04-03,39,Production Delay
+ArcticAir,Thermostat,2025-04-02,2025-04-02,45,
+Nordic HVAC,Thermostat,2025-04-03,2025-04-04,7,Production Delay
+Nordic HVAC,Evaporator Coil,2025-04-03,2025-04-04,7,Transport Issue
+ArcticAir,Fan Motor,2025-04-04,2025-04-04,7,
+KlimaPro,Fan Motor,2025-04-04,2025-04-05,8,Transport Issue
+Nordic HVAC,Fan Motor,2025-04-04,2025-04-06,32,Transport Issue
+ArcticAir,Fan Motor,2025-04-04,2025-04-06,16,Transport Issue
+KlimaPro,Compressor,2025-04-05,2025-04-05,32,
+ArcticAir,Heat Exchanger,2025-04-05,2025-04-06,16,Transport Issue
+Nordic HVAC,Compressor,2025-04-05,2025-04-06,25,Transport Issue
+ArcticAir,Evaporator Coil,2025-04-06,2025-04-08,49,Transport Issue
+ArcticAir,Compressor,2025-04-06,2025-04-08,27,Transport Issue
+Nordic HVAC,Compressor,2025-04-06,2025-04-08,47,Transport Issue
+EuroChill,Compressor,2025-04-06,2025-04-08,14,Production Delay
+Nordic HVAC,Evaporator Coil,2025-04-07,2025-04-08,46,Transport Issue
+ArcticAir,Heat Exchanger,2025-04-07,2025-04-07,7,
+KlimaPro,Fan Motor,2025-04-08,2025-04-08,33,
+EuroChill,Heat Exchanger,2025-04-08,2025-04-10,28,Transport Issue
+KlimaPro,Evaporator Coil,2025-04-08,2025-04-08,12,
+EuroChill,Thermostat,2025-04-08,2025-04-10,38,Production Delay
+KlimaPro,Thermostat,2025-04-09,2025-04-10,18,Transport Issue
+EuroChill,Compressor,2025-04-09,2025-04-09,13,
+ArcticAir,Evaporator Coil,2025-04-09,2025-04-11,50,Production Delay
+KlimaPro,Compressor,2025-04-10,2025-04-11,40,Transport Issue
+EuroChill,Evaporator Coil,2025-04-10,2025-04-10,28,
+Nordic HVAC,Evaporator Coil,2025-04-10,2025-04-10,13,
+Nordic HVAC,Fan Motor,2025-04-11,2025-04-12,40,Transport Issue
+EuroChill,Heat Exchanger,2025-04-11,2025-04-11,10,
+KlimaPro,Thermostat,2025-04-11,2025-04-13,50,Transport Issue
+ArcticAir,Heat Exchanger,2025-04-11,2025-04-11,9,
+Nordic HVAC,Thermostat,2025-04-12,2025-04-13,34,Production Delay
+EuroChill,Evaporator Coil,2025-04-12,2025-04-12,32,
+Nordic HVAC,Heat Exchanger,2025-04-12,2025-04-13,14,Production Delay
+KlimaPro,Evaporator Coil,2025-04-13,2025-04-14,27,Production Delay
+KlimaPro,Evaporator Coil,2025-04-13,2025-04-14,45,Production Delay
+Nordic HVAC,Heat Exchanger,2025-04-14,2025-04-14,46,
+EuroChill,Evaporator Coil,2025-04-14,2025-04-15,47,Production Delay
+Nordic HVAC,Compressor,2025-04-14,2025-04-15,7,Production Delay
+Nordic HVAC,Thermostat,2025-04-15,2025-04-16,45,Transport Issue
+ArcticAir,Evaporator Coil,2025-04-15,2025-04-17,48,Transport Issue
+ArcticAir,Compressor,2025-04-15,2025-04-15,49,
+EuroChill,Thermostat,2025-04-15,2025-04-17,31,Transport Issue
+KlimaPro,Heat Exchanger,2025-04-16,2025-04-17,14,Transport Issue
+KlimaPro,Thermostat,2025-04-16,2025-04-17,13,Production Delay
+EuroChill,Thermostat,2025-04-17,2025-04-18,12,Transport Issue
+EuroChill,Evaporator Coil,2025-04-17,2025-04-17,11,
+KlimaPro,Thermostat,2025-04-17,2025-04-19,44,Production Delay
+KlimaPro,Heat Exchanger,2025-04-18,2025-04-18,25,
+EuroChill,Thermostat,2025-04-18,2025-04-20,37,Transport Issue
+ArcticAir,Compressor,2025-04-19,2025-04-21,10,Transport Issue
+EuroChill,Evaporator Coil,2025-04-19,2025-04-20,42,Production Delay
+Nordic HVAC,Fan Motor,2025-04-19,2025-04-21,36,Transport Issue
+Nordic HVAC,Thermostat,2025-04-20,2025-04-21,13,Transport Issue
+KlimaPro,Compressor,2025-04-21,2025-04-21,30,
+EuroChill,Fan Motor,2025-04-21,2025-04-22,40,Production Delay
+ArcticAir,Heat Exchanger,2025-04-21,2025-04-22,33,Production Delay
+EuroChill,Compressor,2025-04-21,2025-04-22,30,Transport Issue
+EuroChill,Evaporator Coil,2025-04-22,2025-04-24,43,Production Delay
+Nordic HVAC,Compressor,2025-04-22,2025-04-23,13,Transport Issue
+ArcticAir,Evaporator Coil,2025-04-22,2025-04-22,43,
+KlimaPro,Evaporator Coil,2025-04-23,2025-04-24,30,Transport Issue
+ArcticAir,Heat Exchanger,2025-04-23,2025-04-25,24,Production Delay
+KlimaPro,Fan Motor,2025-04-23,2025-04-23,48,
+KlimaPro,Compressor,2025-04-24,2025-04-26,43,Transport Issue
+EuroChill,Compressor,2025-04-24,2025-04-26,42,Production Delay
+ArcticAir,Evaporator Coil,2025-04-24,2025-04-24,48,
+Nordic HVAC,Heat Exchanger,2025-04-24,2025-04-24,49,
+Nordic HVAC,Thermostat,2025-04-25,2025-04-27,25,Production Delay
+ArcticAir,Evaporator Coil,2025-04-25,2025-04-27,31,Production Delay
+EuroChill,Heat Exchanger,2025-04-26,2025-04-28,25,Transport Issue
+KlimaPro,Evaporator Coil,2025-04-26,2025-04-27,34,Transport Issue
+ArcticAir,Evaporator Coil,2025-04-27,2025-04-28,20,Transport Issue
+EuroChill,Fan Motor,2025-04-27,2025-04-27,23,
+ArcticAir,Fan Motor,2025-04-27,2025-04-28,35,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-04-28,2025-04-30,48,Transport Issue
+KlimaPro,Evaporator Coil,2025-04-28,2025-04-28,23,
+KlimaPro,Compressor,2025-04-28,2025-04-30,27,Transport Issue
+EuroChill,Evaporator Coil,2025-04-29,2025-04-30,39,Transport Issue
+EuroChill,Compressor,2025-04-29,2025-04-29,44,
+EuroChill,Compressor,2025-04-29,2025-04-29,47,
+EuroChill,Compressor,2025-04-29,2025-05-01,11,Transport Issue
+Nordic HVAC,Evaporator Coil,2025-04-30,2025-04-30,5,
+ArcticAir,Thermostat,2025-04-30,2025-04-30,35,
+KlimaPro,Fan Motor,2025-04-30,2025-04-30,23,
+Nordic HVAC,Heat Exchanger,2025-04-30,2025-04-30,19,
+ArcticAir,Evaporator Coil,2025-05-01,2025-05-03,7,Transport Issue
+EuroChill,Fan Motor,2025-05-01,2025-05-01,7,
+Nordic HVAC,Fan Motor,2025-05-02,2025-05-04,23,Transport Issue
+EuroChill,Heat Exchanger,2025-05-02,2025-05-03,34,Production Delay
+Nordic HVAC,Fan Motor,2025-05-02,2025-05-04,15,Transport Issue
+Nordic HVAC,Fan Motor,2025-05-03,2025-05-03,23,
+EuroChill,Heat Exchanger,2025-05-03,2025-05-05,45,Transport Issue
+Nordic HVAC,Thermostat,2025-05-04,2025-05-04,47,
+EuroChill,Evaporator Coil,2025-05-04,2025-05-05,35,Production Delay
+Nordic HVAC,Fan Motor,2025-05-04,2025-05-04,29,
+KlimaPro,Fan Motor,2025-05-05,2025-05-05,24,
+KlimaPro,Fan Motor,2025-05-05,2025-05-05,49,
+Nordic HVAC,Compressor,2025-05-05,2025-05-06,34,Production Delay
+ArcticAir,Heat Exchanger,2025-05-05,2025-05-06,50,Production Delay
+KlimaPro,Heat Exchanger,2025-05-06,2025-05-06,19,
+EuroChill,Thermostat,2025-05-06,2025-05-08,14,Transport Issue
+ArcticAir,Heat Exchanger,2025-05-06,2025-05-06,35,
+Nordic HVAC,Heat Exchanger,2025-05-07,2025-05-08,33,Production Delay
+Nordic HVAC,Compressor,2025-05-07,2025-05-07,40,
+EuroChill,Fan Motor,2025-05-08,2025-05-10,38,Production Delay
+EuroChill,Heat Exchanger,2025-05-08,2025-05-08,36,
+Nordic HVAC,Thermostat,2025-05-09,2025-05-11,13,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-05-09,2025-05-10,34,Production Delay
+ArcticAir,Fan Motor,2025-05-09,2025-05-09,5,
+Nordic HVAC,Compressor,2025-05-09,2025-05-10,32,Production Delay
+Nordic HVAC,Thermostat,2025-05-10,2025-05-11,7,Transport Issue
+EuroChill,Thermostat,2025-05-11,2025-05-13,28,Transport Issue
+ArcticAir,Thermostat,2025-05-11,2025-05-11,10,
+Nordic HVAC,Evaporator Coil,2025-05-12,2025-05-14,39,Production Delay
+EuroChill,Compressor,2025-05-12,2025-05-13,6,Transport Issue
+ArcticAir,Heat Exchanger,2025-05-12,2025-05-12,29,
+ArcticAir,Fan Motor,2025-05-13,2025-05-14,14,Production Delay
+Nordic HVAC,Compressor,2025-05-13,2025-05-15,47,Production Delay
+EuroChill,Compressor,2025-05-14,2025-05-14,11,
+ArcticAir,Heat Exchanger,2025-05-14,2025-05-14,48,
+Nordic HVAC,Thermostat,2025-05-15,2025-05-15,33,
+EuroChill,Compressor,2025-05-15,2025-05-16,13,Production Delay
+KlimaPro,Evaporator Coil,2025-05-16,2025-05-16,24,
+EuroChill,Thermostat,2025-05-16,2025-05-17,24,Production Delay
+EuroChill,Thermostat,2025-05-16,2025-05-18,40,Production Delay
+ArcticAir,Heat Exchanger,2025-05-17,2025-05-19,25,Transport Issue
+EuroChill,Fan Motor,2025-05-17,2025-05-17,29,
+ArcticAir,Evaporator Coil,2025-05-17,2025-05-18,19,Production Delay
+Nordic HVAC,Heat Exchanger,2025-05-18,2025-05-20,31,Production Delay
+ArcticAir,Evaporator Coil,2025-05-18,2025-05-18,21,
+KlimaPro,Compressor,2025-05-18,2025-05-19,33,Production Delay
+EuroChill,Compressor,2025-05-18,2025-05-20,22,Production Delay
+EuroChill,Heat Exchanger,2025-05-19,2025-05-19,47,
+EuroChill,Fan Motor,2025-05-20,2025-05-20,24,
+EuroChill,Evaporator Coil,2025-05-20,2025-05-22,12,Production Delay
+EuroChill,Thermostat,2025-05-20,2025-05-21,20,Transport Issue
+ArcticAir,Thermostat,2025-05-20,2025-05-21,39,Transport Issue
+KlimaPro,Heat Exchanger,2025-05-21,2025-05-23,36,Production Delay
+ArcticAir,Fan Motor,2025-05-21,2025-05-22,18,Transport Issue
+ArcticAir,Compressor,2025-05-21,2025-05-21,41,
+Nordic HVAC,Fan Motor,2025-05-22,2025-05-24,40,Transport Issue
+EuroChill,Evaporator Coil,2025-05-22,2025-05-22,26,
+EuroChill,Thermostat,2025-05-23,2025-05-24,40,Transport Issue
+ArcticAir,Thermostat,2025-05-23,2025-05-23,34,
+KlimaPro,Evaporator Coil,2025-05-23,2025-05-25,13,Production Delay
+Nordic HVAC,Heat Exchanger,2025-05-23,2025-05-23,7,
+Nordic HVAC,Thermostat,2025-05-24,2025-05-24,13,
+EuroChill,Compressor,2025-05-25,2025-05-27,18,Transport Issue
+ArcticAir,Thermostat,2025-05-26,2025-05-26,6,
+Nordic HVAC,Compressor,2025-05-27,2025-05-28,38,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-05-27,2025-05-29,49,Production Delay
+Nordic HVAC,Compressor,2025-05-27,2025-05-27,38,
+EuroChill,Evaporator Coil,2025-05-27,2025-05-28,44,Transport Issue
+ArcticAir,Compressor,2025-05-28,2025-05-30,28,Transport Issue
+EuroChill,Evaporator Coil,2025-05-28,2025-05-28,24,
+Nordic HVAC,Compressor,2025-05-28,2025-05-30,30,Transport Issue
+Nordic HVAC,Compressor,2025-05-29,2025-05-29,49,
+Nordic HVAC,Thermostat,2025-05-29,2025-05-30,32,Production Delay
+Nordic HVAC,Evaporator Coil,2025-05-29,2025-05-31,18,Transport Issue
+Nordic HVAC,Compressor,2025-05-29,2025-05-30,48,Production Delay
+KlimaPro,Compressor,2025-05-30,2025-05-30,18,
+ArcticAir,Compressor,2025-05-30,2025-05-30,24,
+ArcticAir,Heat Exchanger,2025-05-31,2025-06-02,26,Production Delay
+Nordic HVAC,Heat Exchanger,2025-05-31,2025-05-31,27,
+ArcticAir,Evaporator Coil,2025-06-01,2025-06-02,9,Transport Issue
+Nordic HVAC,Fan Motor,2025-06-02,2025-06-04,33,Production Delay
+KlimaPro,Heat Exchanger,2025-06-02,2025-06-04,29,Production Delay
+ArcticAir,Compressor,2025-06-02,2025-06-03,44,Production Delay
+Nordic HVAC,Fan Motor,2025-06-03,2025-06-05,14,Production Delay
+KlimaPro,Fan Motor,2025-06-04,2025-06-04,11,
+Nordic HVAC,Fan Motor,2025-06-04,2025-06-05,33,Transport Issue
+Nordic HVAC,Evaporator Coil,2025-06-04,2025-06-04,10,
+ArcticAir,Thermostat,2025-06-04,2025-06-06,40,Production Delay
+Nordic HVAC,Fan Motor,2025-06-05,2025-06-05,40,
+ArcticAir,Compressor,2025-06-06,2025-06-08,23,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-06-06,2025-06-06,20,
+ArcticAir,Evaporator Coil,2025-06-06,2025-06-07,13,Transport Issue
+ArcticAir,Evaporator Coil,2025-06-07,2025-06-07,9,
+ArcticAir,Fan Motor,2025-06-07,2025-06-08,31,Transport Issue
+Nordic HVAC,Fan Motor,2025-06-07,2025-06-07,21,
+EuroChill,Thermostat,2025-06-08,2025-06-08,11,
+KlimaPro,Compressor,2025-06-08,2025-06-09,30,Transport Issue
+KlimaPro,Thermostat,2025-06-08,2025-06-10,26,Production Delay
+KlimaPro,Fan Motor,2025-06-08,2025-06-08,43,
+KlimaPro,Evaporator Coil,2025-06-09,2025-06-10,30,Transport Issue
+ArcticAir,Heat Exchanger,2025-06-09,2025-06-10,20,Transport Issue
+KlimaPro,Thermostat,2025-06-09,2025-06-09,28,
+EuroChill,Heat Exchanger,2025-06-09,2025-06-09,39,
+ArcticAir,Evaporator Coil,2025-06-10,2025-06-11,33,Production Delay
+ArcticAir,Evaporator Coil,2025-06-11,2025-06-12,45,Production Delay
+KlimaPro,Evaporator Coil,2025-06-11,2025-06-13,50,Transport Issue
+Nordic HVAC,Thermostat,2025-06-11,2025-06-13,43,Transport Issue
+ArcticAir,Heat Exchanger,2025-06-11,2025-06-12,7,Production Delay
+EuroChill,Fan Motor,2025-06-12,2025-06-12,15,
+KlimaPro,Thermostat,2025-06-13,2025-06-13,11,
+Nordic HVAC,Fan Motor,2025-06-13,2025-06-13,19,
+ArcticAir,Fan Motor,2025-06-13,2025-06-15,30,Production Delay
+KlimaPro,Compressor,2025-06-13,2025-06-13,35,
+ArcticAir,Compressor,2025-06-14,2025-06-14,12,
+KlimaPro,Fan Motor,2025-06-14,2025-06-16,26,Production Delay
+ArcticAir,Fan Motor,2025-06-14,2025-06-14,35,
+ArcticAir,Fan Motor,2025-06-15,2025-06-16,9,Production Delay
+Nordic HVAC,Compressor,2025-06-15,2025-06-15,26,
+EuroChill,Evaporator Coil,2025-06-15,2025-06-15,38,
+EuroChill,Fan Motor,2025-06-15,2025-06-17,40,Transport Issue
+ArcticAir,Evaporator Coil,2025-06-16,2025-06-18,16,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-06-16,2025-06-18,17,Transport Issue
+Nordic HVAC,Evaporator Coil,2025-06-17,2025-06-18,18,Production Delay
+Nordic HVAC,Heat Exchanger,2025-06-17,2025-06-18,16,Transport Issue
+EuroChill,Thermostat,2025-06-17,2025-06-18,12,Transport Issue
+KlimaPro,Heat Exchanger,2025-06-17,2025-06-19,29,Production Delay
+KlimaPro,Thermostat,2025-06-18,2025-06-18,44,
+KlimaPro,Heat Exchanger,2025-06-18,2025-06-18,42,
+EuroChill,Fan Motor,2025-06-18,2025-06-18,12,
+Nordic HVAC,Evaporator Coil,2025-06-19,2025-06-19,28,
+ArcticAir,Thermostat,2025-06-19,2025-06-19,43,
+ArcticAir,Thermostat,2025-06-19,2025-06-21,16,Production Delay
+ArcticAir,Fan Motor,2025-06-20,2025-06-20,13,
+KlimaPro,Thermostat,2025-06-20,2025-06-20,44,
+Nordic HVAC,Thermostat,2025-06-21,2025-06-21,13,
+ArcticAir,Heat Exchanger,2025-06-21,2025-06-23,37,Transport Issue
+ArcticAir,Thermostat,2025-06-21,2025-06-23,50,Transport Issue
+Nordic HVAC,Heat Exchanger,2025-06-22,2025-06-22,6,
+KlimaPro,Compressor,2025-06-22,2025-06-22,22,
+EuroChill,Thermostat,2025-06-23,2025-06-25,41,Production Delay
+Nordic HVAC,Fan Motor,2025-06-23,2025-06-24,39,Production Delay
+ArcticAir,Heat Exchanger,2025-06-23,2025-06-25,18,Production Delay
+KlimaPro,Compressor,2025-06-24,2025-06-25,33,Transport Issue
+Nordic HVAC,Thermostat,2025-06-24,2025-06-24,12,
+KlimaPro,Heat Exchanger,2025-06-25,2025-06-27,45,Production Delay
+EuroChill,Evaporator Coil,2025-06-25,2025-06-25,18,
+KlimaPro,Heat Exchanger,2025-06-26,2025-06-26,39,
+KlimaPro,Fan Motor,2025-06-26,2025-06-27,23,Production Delay
+EuroChill,Thermostat,2025-06-26,2025-06-27,8,Production Delay
+EuroChill,Evaporator Coil,2025-06-27,2025-06-28,50,Production Delay
+ArcticAir,Thermostat,2025-06-27,2025-06-28,14,Transport Issue
+ArcticAir,Compressor,2025-06-28,2025-06-28,45,
+ArcticAir,Heat Exchanger,2025-06-28,2025-06-29,22,Transport Issue
+ArcticAir,Fan Motor,2025-06-28,2025-06-28,42,
+Nordic HVAC,Thermostat,2025-06-28,2025-06-29,45,Production Delay
+EuroChill,Thermostat,2025-06-29,2025-07-01,18,Transport Issue
+KlimaPro,Fan Motor,2025-06-29,2025-06-29,26,
+ArcticAir,Fan Motor,2025-06-29,2025-06-29,48,
+Nordic HVAC,Compressor,2025-06-29,2025-07-01,45,Production Delay
+EuroChill,Thermostat,2025-06-30,2025-06-30,34,

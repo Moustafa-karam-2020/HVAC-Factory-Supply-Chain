@@ -1,0 +1,19 @@
+Level 1,Level 2,Level 3
+Production Losses,Equipment Failure,Compressor Malfunction
+Production Losses,Equipment Failure,Motor Burnout
+Production Losses,Material Shortage,Late Supplier Delivery
+Production Losses,Material Shortage,Incorrect Material Spec
+Production Losses,Power Outage,Grid Failure
+Production Losses,Power Outage,Internal Electrical Fault
+Quality Losses,Scrap,Damaged Heat Exchanger
+Quality Losses,Scrap,Cracked Evaporator Coil
+Quality Losses,Rework,Incorrect Assembly
+Quality Losses,Rework,Welding Defect
+Logistics Losses,Inbound Delay,Customs Delay
+Logistics Losses,Inbound Delay,Weather Disruption
+Logistics Losses,Outbound Delay,Transport Breakdown
+Logistics Losses,Outbound Delay,Driver Shortage
+Administrative Losses,System Downtime,ERP System Failure
+Administrative Losses,System Downtime,Network Outage
+Administrative Losses,Process Delay,Approval Bottleneck
+Administrative Losses,Process Delay,Data Entry Error
